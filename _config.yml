@@ -1,32 +1,32 @@
 # Site
-repository: sproogen/resume-theme
+repository: nguyennth/resume
 favicon: images/favicon.ico
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+name: Nhung T.H. Nguyen
+title: Presidential Fellow
+email: nhung.nguyen@manchester.ac.uk
+website: www.github.com/nguyennth/resume
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
+twitter_username: nguyenthnhung
+github_username:  nguyennth
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: chillwildlife
-linkedin_username: jameswgrant
+# instagram_username: chillwildlife
+linkedin_username: nguyenthnhung
 # pinterest_username: jekyll
-youtube_username: globalmtb
+# youtube_username: stampit12
 # googleplus_username: +jekyll
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
+about_profile_image: images/avatar.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
-
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  Hello, my name's Nhung (the Nh is pronounced like Ñ in Spanish). I'm now a presidential fellow at Faculty of Sciences and Engineering at the University of Manchester. Previously I was a research associate at [National Center for Text Mining (NaCTeM)](http://nactem.ac.uk/).
+ 
+  My main research is about text mining and natural language processing in biomedical domain.
 
 # Projects Section
 # projects_title: Projects
@@ -34,18 +34,21 @@ about_content: | # this will include new lines to allow paragraphs
 # Experience Section
 # experience_title: Experience
 
+# Publications Section
+# publications_tilte: Publications
+
 # Education Section
 # educaton_title: Education
 
 # More Section
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
-  Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-   - Rock climbing
-   - Gaming
-   - Knitting
-   - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
-
+  Some of my interests and hobbies are:
+   - Travelling (apparently this is not a good one in this situation)
+   - Plants
+   - Making hand-crafted things
+   - Reading books (although I read them very slowly)
+   
 # Footer
 footer_show_references: true
 

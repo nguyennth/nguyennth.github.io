@@ -1,10 +1,26 @@
-- layout: left
-  name: Harvard University
-  dates: 2010 - 2013
-  qualification: BSc Computer Science
-  quote: >
-    Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+- layout: top
+  name: Japan Advanced Institute of Science and Technology, Japan
+  dates: 2010 - 2014
+  qualification: PhD Information Science
+  #quote: >
+  #  Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
   description: | # this will include new lines to allow paragraphs
-    During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
-
-    I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+    My dissertation was mainly about information extraction from biomedical texts. Specifically, I built an unsupervised relation extraction system that can locate every possible association between two entities in a sentence. My system is similar to an Open Information Extraction (OpenIE) one in terms that it does not require a pre-defined schema for relations or entities. Relations was extracted based on Predicate-Argument Structure (PAS) patterns. 
+- layout: top
+  name: University of Science, Ho Chi Minh City, Vietnam
+  dates: 2006 - 2009
+  qualification: MSc Computer Science
+  #quote: >
+  #  Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+  description: | # this will include new lines to allow paragraphs
+    I did Statistical Machine Translation (SMT) in my thesis, in particular to translate documents from English to Vietnamese. My work tackled the issue of word ordering between Vietnamese and English by using a probablistic model to decide whether the system should reorder components in a phrase before translating.
+- layout: top
+  name: University of Science, Ho Chi Minh City, Vietnam
+  dates: 2001 - 2005
+  qualification: BSc Information Technololgy
+  #quote: >
+  #  Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+  description: | # this will include new lines to allow paragraphs
+    For the first time in my life, I learnt how to code a program in Pascal (not sure if anybody know about its existence), C, and C++, which I believe is still useful for me until now.
+    
+    My thesis was about Information Retrieval (IR) in which my classmate and I were trying to implement a cross-language IR system that allowed users to search both Vietnamese and English documents by inputting Vietnamese keywords. We simply used a dictionary and intergrated with a Google API. We also extended the system to Chinese as well.
