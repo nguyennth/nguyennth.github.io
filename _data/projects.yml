@@ -5,7 +5,7 @@
   # quote: >
   #   This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
   description: | # this will include new lines to allow paragraphs
-    I am leading research on text mining to automatically detect risk factors and assess risk levels. The goal of this work is not only to automatically compute a global risk per document, but also to allow medical risk assessment specialists to understand how the risk value are calculated.
+    I was leading research on text mining to automatically detect risk factors and assess risk levels. The goal of this work is not only to automatically compute a global risk per document, but also to allow medical risk assessment specialists to understand how the risk value are calculated.
 - layout: left
   name: Open Mining Infrastructure for Text and Data (OpenMinTeD)
   link: http://openminted.eu/
