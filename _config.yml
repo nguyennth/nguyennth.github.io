@@ -24,7 +24,7 @@ linkedin_username: nguyenthnhung
 # about_title: About Me
 about_profile_image: images/avatar.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hello, my name's Nhung (the Nh is pronounced like Ñ in Spanish). I'm now a presidential fellow at Faculty of Sciences and Engineering at the University of Manchester. Previously I was a research associate at [National Center for Text Mining (NaCTeM)](http://nactem.ac.uk/).
+  Hello, my name's Nhung (the Nh is pronounced like Ñ in Spanish). I'm now a presidential fellow at the Deparment of Computer Science, Faculty of Science and Engineering, University of Manchester. Previously I was a research fellow at [National Center for Text Mining (NaCTeM)](http://nactem.ac.uk/).
  
   My main research is about text mining and natural language processing in biomedical domain.
 
