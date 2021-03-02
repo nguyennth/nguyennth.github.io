@@ -5,7 +5,7 @@
   #quote: >
   #  Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
   description: | # this will include new lines to allow paragraphs
-    My dissertation was mainly about information extraction from biomedical texts. Specifically, I built an unsupervised relation extraction system that can locate every possible association between two entities in a sentence. My system is similar to an Open Information Extraction (OpenIE) one in terms that it does not require a pre-defined schema for relations or entities. Relations was extracted based on Predicate-Argument Structure (PAS) patterns. Source code of PASMED is published [here](https://github.com/nguyennth/PASMED)
+    My dissertation was mainly about information extraction from biomedical texts. Specifically, I built an unsupervised relation extraction system that can locate every possible association between two entities in a sentence. My system is similar to an Open Information Extraction (OpenIE) one in terms that it does not require a pre-defined schema for relations or entities. Relations was extracted based on Predicate-Argument Structure (PAS) patterns. Source code of PASMED is published [here](https://github.com/nguyennth/PASMED).
 - layout: top
   name: University of Science, Ho Chi Minh City, Vietnam
   dates: 2006 - 2009
