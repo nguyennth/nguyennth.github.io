@@ -5,7 +5,7 @@
   # quote: >
   #   This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
   description: | # this will include new lines to allow paragraphs
-    I was leading research on text mining to automatically detect risk factors and assess risk levels. The goal of this work is not only to automatically compute a global risk per document, but also to allow medical risk assessment specialists to understand how the risk value are calculated.
+    I was leading research on text mining to automatically detect risk factors and calculate the corresponding risk levels in clinical health records. The main goal of this project is to support underwriters in their risk assement.
 - layout: left
   name: Open Mining Infrastructure for Text and Data (OpenMinTeD)
   link: http://openminted.eu/
@@ -13,7 +13,9 @@
   # quote: >
   #   This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
   description: | # this will include new lines to allow paragraphs
-    This was an EU H2020 project, in which I contributed to the development of an open and interoperable text mining infrastructure. Particularly, we used uimaFIT---a Java framework that allows us to wrap up our text mining tools and make them compatible with tools from other groups. By doing so, an end user of OpenMinTeD can easily create any workflows using different text mining components from different groups. In this project, I was involved in two use cases: (1) Extract metabolites and their properties and modes of actions and (2) text mining for curation neuroscience literature. I implemented wrappers for the two text mining workflows and helped making several Argo components for basic NLP functions publicly available.
+    This was an EU H2020 project, in which I contributed to the development of an open and interoperable text mining infrastructure. Particularly, we used uimaFIT---a Java framework that allows us to wrap up our text mining tools and make them compatible with tools from other groups. I was involved in two use cases: (1) Extract metabolites and their properties and modes of actions and (2) text mining for curation neuroscience literature.
+ 
+#     By doing so, an end user of OpenMinTeD can easily create any workflows using different text mining components from different groups. In this project, I was involved in two use cases: (1) Extract metabolites and their properties and modes of actions and (2) text mining for curation neuroscience literature. I implemented wrappers for the two text mining workflows and helped making several Argo components for basic NLP functions publicly available.
 - layout: left
   name: Predictive database to determine the toxicological profile of Natural Complex Substances - Plants extracts (NCS TOX)
   link: http://www.unitis.org/en/ncs-tox-project,378.html
@@ -21,7 +23,8 @@
   # quote: >
   #   This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
   description: | # this will include new lines to allow paragraphs
-    NCSTOX was funded by cosmetic industry in France to analyse toxicity from text and alleviate their safety assessment process in producing cosmetics. Specifically, we detected molecules, molecule groups and toxicological keywords in several resources, e.g., PubMed, PMC, NCCS Opinions and ToxNet. We subsequently predicted whether a paper mentions interesting endpoints of genotoxicity, skin sensitisation, hepatotoxicity and bactericid effects. If so, it was passed to toxicologists as evidence (in addition to in-silico results) for further verification. A further step was to identify relations between plants and molecules, and plants' organisms and molecules, in order to identify plant extracts that can be used in producing cosmetics. All results have been integrated into the NCSTOX database.
+    NCSTOX was funded by cosmetic industry in France to analyse toxicity from text and alleviate their safety assessment process in producing cosmetics. Specifically, we detected molecules, molecule groups and toxicological keywords in several resources, e.g., PubMed, PMC, NCCS Opinions and ToxNet. We then identify relations between plants and molecules, and plants' organisms and molecules, in order to identify plant extracts that can be used in producing cosmetics. All results have been integrated into the NCSTOX database.
+  #We subsequently predicted whether a paper mentions interesting endpoints of genotoxicity, skin sensitisation, hepatotoxicity and bactericid effects. If so, it was passed to toxicologists as evidence (in addition to in-silico results) for further verification.
 - layout: left
   name: COnserving Philippine bIOdiversity by UnderStanding big data (COPIOUS)
   link: http://nactem.ac.uk/copious/
@@ -29,5 +32,6 @@
   # quote: >
   #   This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
   description: | # this will include new lines to allow paragraphs
-    I produced novel tools and resources to curate and analyse biodiversity information for the Philippines to create a Living Atlas. Among the resulting resources is the first terminological repository for biodiversity that was automatically created by applying distributional semantic models to 100 million pages from the Biodiversity Heritage Library. The repository was then incorporated into a visual search interface to facilitating automatic query expansion. Another outcome is a gold standard for named entities in five categories: species names, habitats, geographical locations, persons and temporal expressions. This [gold standard](http://nactem.ac.uk/copious/copious_published.zip) can be used to train tools to extract entities and relations from biodiversity literature. 
+    I produced novel tools and resources to curate and analyse biodiversity information for the Philippines to create a Living Atlas: (1)the first terminological repository for biodiversity that was automatically created by applying distributional semantic models to 100 million pages from the Biodiversity Heritage Library, (2) a [gold standard](http://nactem.ac.uk/copious/copious_published.zip) for named entities in five categories: species names, habitats, geographical locations, persons and temporal expressions. This data can be used to train tools to extract entities and relations from biodiversity literature. 
+#    I produced novel tools and resources to curate and analyse biodiversity information for the Philippines to create a Living Atlas. Among the resulting resources is the first terminological repository for biodiversity that was automatically created by applying distributional semantic models to 100 million pages from the Biodiversity Heritage Library. The repository was then incorporated into a visual search interface to facilitating automatic query expansion. Another outcome is a gold standard for named entities in five categories: species names, habitats, geographical locations, persons and temporal expressions. This [gold standard](http://nactem.ac.uk/copious/copious_published.zip) can be used to train tools to extract entities and relations from biodiversity literature. 
   
