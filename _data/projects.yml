@@ -5,9 +5,7 @@
   # quote: >
   #   This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
   description: | # this will include new lines to allow paragraphs
-    In this project, I focused on developing methods for Named Entity Recognition, Entity Linking and Relation Extraction. The ultimate goal is to build a knowledge graph that contains information about nutrion and health, especially mental health. The resulting graph can then be used for personalised nutrtion.
-
-    
+    In this project, I focused on developing methods for Named Entity Recognition, Entity Linking and Relation Extraction. The ultimate goal is to build a knowledge graph that contains information about nutrion and health, especially mental health. The resulting graph can then be used for personalised nutrtion.    
 - layout: left
   name: Medical Risk Assessment
   link: http://nactem.ac.uk/pacificlife/
@@ -16,7 +14,6 @@
   #   This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
   description: | # this will include new lines to allow paragraphs
     I was leading research on text mining to automatically detect risk factors and calculate the corresponding risk levels in clinical health records. The main goal of this project is to support underwriters in their risk assement.
-
 - layout: left
   name: Open Mining Infrastructure for Text and Data (OpenMinTeD)
   link: http://openminted.eu/
@@ -24,8 +21,7 @@
   # quote: >
   #   This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
   description: | # this will include new lines to allow paragraphs
-    This was an EU H2020 project, in which I contributed to the development of an open and interoperable text mining infrastructure. Particularly, we used uimaFIT---a Java framework that allows us to wrap up our text mining tools and make them compatible with tools from other groups. I was involved in two use cases: (1) Extract metabolites and their properties and modes of actions and (2) text mining for curation neuroscience literature.
- 
+    This was an EU H2020 project, in which I contributed to the development of an open and interoperable text mining infrastructure. Particularly, we used uimaFIT---a Java framework that allows us to wrap up our text mining tools and make them compatible with tools from other groups. I was involved in two use cases: (1) Extract metabolites and their properties and modes of actions and (2) text mining for curation neuroscience literature. 
 #     By doing so, an end user of OpenMinTeD can easily create any workflows using different text mining components from different groups. In this project, I was involved in two use cases: (1) Extract metabolites and their properties and modes of actions and (2) text mining for curation neuroscience literature. I implemented wrappers for the two text mining workflows and helped making several Argo components for basic NLP functions publicly available.
 - layout: left
   name: Predictive database to determine the toxicological profile of Natural Complex Substances - Plants extracts (NCS TOX)
