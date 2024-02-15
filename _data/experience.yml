@@ -1,4 +1,14 @@
 - layout: top
+  company: The University of Manchester, Manchester, UK
+  link: 
+  job_title: Presidential Fellow
+  dates: Jan 2021 - Jan 2014
+- layout: top
+  company: National Centre for Text Mining, Manchester, UK
+  link: https://nactem.ac.uk/
+  job_title: PostDoc Research Associate/Fellow
+  dates: June 2015 - Dec 2020
+- layout: top
   company: The University of Tokyo, Japan
   link: https://www.logos.t.u-tokyo.ac.jp/index-en.html
   job_title: Research student
