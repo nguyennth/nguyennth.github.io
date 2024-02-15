@@ -5,7 +5,7 @@
   # quote: >
   #   This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
   description: | # this will include new lines to allow paragraphs
-    In this project, I focused on developing methods for Named Entity Recognition, Entity Linking and Relation Extraction. The ultimate goal is to build a knowledge graph that contains information about nutrion and health, especially mental health. The resulting graph can then be used for personalised nutrtion.    
+    In this project, I focused on developing methods for Named Entity Recognition, Entity Linking and Relation Extraction. The ultimate goal is to build a knowledge graph that contains information about nutrion and health, especially mental health. The resulting graph can then be used for personalised nutrtion.
 - layout: left
   name: Medical Risk Assessment
   link: http://nactem.ac.uk/pacificlife/
