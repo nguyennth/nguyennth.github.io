@@ -1,3 +1,13 @@
+ - layout: left
+  name: AI Methods for Nutrition and Health
+  link: 
+  # github: sproogen/resume-theme
+  # quote: >
+  #   This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+  description: | # this will include new lines to allow paragraphs
+    In this project, I focused on developing methods for Named Entity Recognition, Entity Linking and Relation Extraction. The ultimate goal is to build a knowledge graph that contains information about nutrion and health, especially mental health. The resulting graph can then be used for personalised nutrtion.
+
+    
 - layout: left
   name: Medical Risk Assessment
   link: http://nactem.ac.uk/pacificlife/
@@ -6,6 +16,7 @@
   #   This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
   description: | # this will include new lines to allow paragraphs
     I was leading research on text mining to automatically detect risk factors and calculate the corresponding risk levels in clinical health records. The main goal of this project is to support underwriters in their risk assement.
+
 - layout: left
   name: Open Mining Infrastructure for Text and Data (OpenMinTeD)
   link: http://openminted.eu/
