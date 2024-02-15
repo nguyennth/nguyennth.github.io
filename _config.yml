@@ -17,9 +17,9 @@ linkedin_username: nguyenthnhung
 # about_title: About Me
 about_profile_image: images/avatar.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hello, my name's Nhung (the Nh is pronounced like Ñ in Spanish). I'm now a presidential fellow at the Deparment of Computer Science, Faculty of Science and Engineering, University of Manchester. I'm currently located at [National Center for Text Mining (NaCTeM)](http://nactem.ac.uk/).
+  Hello, my name's Nhung (the Nh is pronounced like Ñ in Spanish). I'm now a Scientist in NLP at [Johnson & Johnson Innovative Medicine](https://www.janssen.com/johnson-johnson-innovative-medicine). Prior to this I was presidential fellow at the Deparment of Computer Science, Faculty of Science and Engineering, University of Manchester. 
  
-  My main research is about text mining and natural language processing in biomedical domain.
+  My main research is about text mining and natural language processing in the biomedical domain.
 
   My publications are listed [here](https://scholar.google.co.uk/citations?hl=en&user=UY3KrtIAAAAJ&view_op=list_works&sortby=pubdate).
 # Projects Section
@@ -42,6 +42,7 @@ more_content: | # this will include new lines to allow paragraphs
    - Plants
    - Making hand-crafted things
    - Reading books (although I read them very slowly)
+   - Swimming (although I'm just a novice swimmer)
    
 # Footer
 footer_show_references: true
